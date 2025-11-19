@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "include": ["/embed/*"],
+  "exclude": [],
+  "routes": [
+    {
+      "pattern": "/embed/*",
+      "serve": "/index.html"
+    }
+  ]
+}
